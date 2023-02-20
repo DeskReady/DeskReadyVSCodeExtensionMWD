@@ -3,9 +3,9 @@
   "displayName": "Desk Ready Modern Web Dev Essentials",
   "description": "A collection of useful extensions for Web Development in VS Code",
   "icon": "images/DeskReady-ModernWebDev.png",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "DeskReady",
-  "scripts":{
+  "scripts": {
     "patch": "vsce publish patch"
   },
   "engines": {
