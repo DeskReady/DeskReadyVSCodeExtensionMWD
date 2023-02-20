@@ -5,6 +5,9 @@
   "icon": "images/DeskReady-ModernWebDev.png",
   "version": "0.0.3",
   "publisher": "DeskReady",
+  "scripts":{
+    "patch": "vsce publish patch"
+  },
   "engines": {
     "vscode": "^1.61.0"
   },
