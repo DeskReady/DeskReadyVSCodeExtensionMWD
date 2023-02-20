@@ -3,14 +3,14 @@
   "displayName": "Desk Ready Modern Web Dev Essentials",
   "description": "A collection of useful extensions for Web Development in VS Code",
   "icon": "images/DeskReady-ModernWebDev.png",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "DeskReady",
   "engines": {
     "vscode": "^1.61.0"
   },
   "repository": {
-		"type": "git",
-		"url": "https://github.com/DeskReady/DeskReadyVSCodeExtensionMWD"
+    "type": "git",
+    "url": "https://github.com/DeskReady/DeskReadyVSCodeExtensionMWD"
   },
   "categories": [
     "Extension Packs"
