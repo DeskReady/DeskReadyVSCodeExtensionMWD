@@ -8,8 +8,18 @@
   "engines": {
     "vscode": "^1.61.0"
   },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/JannisX11/batch-rename"
+  },
   "categories": [
     "Extension Packs"
+  ],
+  "keywords": [
+    "development",
+    "website",
+    "webdev",
+    "frontend"
   ],
   "extensionPack": [
     "eamodio.gitlens",
