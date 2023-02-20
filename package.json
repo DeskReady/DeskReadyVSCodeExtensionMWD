@@ -1,0 +1,27 @@
+{
+  "name": "Desk-Ready-Modern-Web-Development",
+  "displayName": "Desk Ready Modern Web Development",
+  "description": "A collection of useful extensions for Web Development in VS Code",
+  "icon": "images/DeskReady-ModernWebDev.png",
+  "version": "0.0.1",
+  "publisher": "DeskReady",
+  "engines": {
+    "vscode": "^1.61.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "eamodio.gitlens",
+    "hnw.vscode-auto-open-markdown-preview",
+    "formulahendry.code-runner",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "HTMLHint.vscode-htmlhint",
+    "bradgashler.htmltagwrap",
+    "xabikos.JavaScriptSnippets",
+    "techer.open-in-browser",
+    "johnpapa.vscode-peacock",
+    "emmanuelbeziat.vscode-great-icons"
+  ]
+}
