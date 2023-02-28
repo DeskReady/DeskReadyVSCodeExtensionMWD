@@ -1,6 +1,6 @@
 # Desk Ready Modern Web Dev Essentials
 
-A collection of useful extensions for Web Development in VS Code to help developers be more productive and zen like.
+Useful VS Code extensions for Web Dev to help devs be more productive and zen like.
 
 
 **Enjoy!**
