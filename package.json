@@ -3,7 +3,7 @@
   "displayName": "Desk Ready Modern Web Dev Essentials",
   "description": "A collection of useful extensions for Web Development in VS Code",
   "icon": "images/DeskReady-ModernWebDev.png",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "publisher": "DeskReady",
   "scripts": {
     "patch": "vsce publish patch"
@@ -35,6 +35,7 @@
     "xabikos.JavaScriptSnippets",
     "techer.open-in-browser",
     "johnpapa.vscode-peacock",
-    "emmanuelbeziat.vscode-great-icons"
+    "emmanuelbeziat.vscode-great-icons",
+    "Tyriar.vscode-terminal-here"
   ]
 }
